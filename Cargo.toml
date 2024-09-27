@@ -1,0 +1,10 @@
+[package]
+name = "Hashing_Input_to_a_Multiplicative_Group_Using_SHA_256_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10"
+hex = "0.4"
+num-bigint = "0.4"
+num-traits = "0.2"
